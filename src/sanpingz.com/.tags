@@ -1,0 +1,27 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+Bar	demo/main.go	/^func (base *Base) Bar() {$/;"	d
+Bar	demo/main.go	/^func (nbase *NBase) Bar() {$/;"	d
+Base	demo/main.go	/^type Base struct {$/;"	d
+C3sum	simplemath/calc.go	/^func C3sum() {$/;"	d
+Foo	demo/main.go	/^func (base *Base) Foo() {$/;"	d
+Integer	demo/main.go	/^type Integer int$/;"	d
+NBase	demo/main.go	/^type NBase struct {$/;"	d
+PersonInfo	demo/main.go	/^type PersonInfo struct {$/;"	d
+Sqrt	simplemath/calc.go	/^func Sqrt(x float64) float64 {$/;"	d
+TestC3sum	simplemath/calc_test.go	/^func TestC3sum(t *testing.T) {$/;"	d
+TestSqrt	simplemath/calc_test.go	/^func TestSqrt(t *testing.T) {$/;"	d
+add	demo/main.go	/^func (a *Integer) add(b Integer) Integer {$/;"	d
+bar	demo/loop.py	/^def bar():$/;"	f
+foo	demo/loop.py	/^def foo():$/;"	f
+imap	demo/main.go	/^		var imap map[string]PersonInfo$/;"	d
+less	demo/main.go	/^func (a Integer) less(b Integer) bool {$/;"	d
+main	demo/loop.c	/^int main(){$/;"	f
+main	demo/main.go	/^func main() {$/;"	d
+strloop	demo/main.go	/^func strloop(str string) {$/;"	d
+sum	simplemath/calc.go	/^func sum(values []int, resultChan chan int) {$/;"	d
+time	demo/loop.py	/^import time$/;"	i
